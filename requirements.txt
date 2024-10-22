@@ -1,0 +1,3 @@
+arch: android-tools
+customtkinter
+pillow
