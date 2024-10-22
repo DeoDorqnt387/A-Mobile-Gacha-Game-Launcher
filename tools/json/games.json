@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Arknights (Global)",
+        "apk_path": "/absolute/path/to/game1.apk",
+        "package_name": "com.YoStarEN.Arknights",
+        "image": "tools/images/arknights.jpg",
+        "installation_url": ""
+    },
+    {
+        "name": "Blue Archive (Global)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.nexon.bluearchive",
+        "image": "tools/images/bluearchive.png",
+        "installation_url": ""
+    },
+    {
+        "name": "Blue Archive (JP)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.YostarJP.BlueArchive",
+        "image": "tools/images/bluearchive.png",
+        "installation_url": "https://download.apkcombo.com/com.YostarJP.BlueArchive/Blue%20Archive%20JP_1.46.287264_apkcombo.com.apk?ecp=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlLzEuNDYuMjg3MjY0LzI4NzI2NC4zNTY3M2U2ZWM3M2RlZjlkOWQ1YmY4NzdjYjlkMzNjZWFjNjUzNjU1LmFwaw==&iat=1729467817&sig=1ccdbc7d0035d162254d062213e012ef&size=132877835&from=cf&version=latest&lang=en&fp=a0017f4b6cbd818672b8b1f657b07117&ip=85.107.6.57"
+    },
+    {
+        "name": "Date a Live: Spirit Pledge \nChina (Nostalgic Server)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.m648sy.yhdzzldyzaqlmzf.coolplay",
+        "image": "tools/images/datealivesppcn.jpg",
+        "installation_url": ""
+    },
+    {
+        "name": "Honkai: Star Rail (Global)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.HoYoverse.hkrpgoversea",
+        "image": "tools/images/honkaistarrail.jpg",
+        "installation_url": ""
+    },
+    {
+        "name": "Soul Tide (Global)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.lemcnsun.soultide.android",
+        "image": "tools/images/soultide.jpg",
+        "installation_url": ""
+    },
+    {
+        "name": "Counter Side (Global)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.studiobside.CounterSide",
+        "image": "tools/images/counterside.jpg",
+        "installation_url": ""
+    },
+    {
+        "name": "Neural Cloud (Global)",
+        "apk_path": "/absolute/path/to/game2.apk",
+        "package_name": "com.sunborn.neuralcloud.en",
+        "image": "tools/images/neuralcloud.jpg",
+        "installation_url": ""
+    }
+]
